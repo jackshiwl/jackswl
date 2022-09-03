@@ -44,7 +44,7 @@ In progress
 
 ## CNN
 Here are some stackoverflow links explaining different dimensions of convolutions within CNN
-[Intuitive understanding of 1D, 2D and 3D convolutions in CNN](https://stackoverflow.com/questions/42883547/intuitive-understanding-of-1d-2d-and-3d-convolutions-in-convolutional-neural-n/44628011#44628011)
+[Intuitive understanding of 1D, 2D and 3D convolutions in CNN](https://stackoverflow.com/questions/42883547/intuitive-understanding-of-1d-2d-and-3d-convolutions-in-convolutional-neural-n/44628011#44628011) <br />
 [Difference between the input shape for a 1D CNN, 2D CNN and 3D CNN](https://stackoverflow.com/questions/66220774/difference-between-the-input-shape-for-a-1d-cnn-2d-cnn-and-3d-cnn)
 
 ## Papers
