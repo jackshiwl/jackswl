@@ -1,7 +1,9 @@
 # Climate Research
 
-Most papers in well-known journals have high-level description of various methodologies and terminologies used, for which I find difficulties to source for other simpler explanations and information. This page is therefore to document websites, articles, and videos that I found very useful along the way.
+Most papers in well-known journals have high-level descriptions of the various methodologies and terminologies used, which I find difficulties sourcing for other simpler forms of explanations and information. This page is therefore to document websites, articles, and videos that I found useful along the way.
 
+## Introduction to how climate models work
+(https://www.carbonbrief.org/qa-how-do-climate-models-work/)
 
 ## Reforecast and Reanalysis
 
@@ -13,3 +15,6 @@ Most papers in well-known journals have high-level description of various method
 
 
 ## CNN
+
+
+## Papers
