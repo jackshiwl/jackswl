@@ -3,7 +3,7 @@
 Most papers in well-known journals have high-level descriptions of the various methodologies and terminologies used, which I find difficulties sourcing for other simpler forms of explanations and information. This page is therefore to document websites, articles, and videos that I found useful along the way.
 
 ## Introduction to how climate models work
-(https://www.carbonbrief.org/qa-how-do-climate-models-work/)
+[How do climate models work by Carbon Brief](https://www.carbonbrief.org/qa-how-do-climate-models-work/)
 
 ## Reforecast and Reanalysis
 
