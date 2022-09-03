@@ -1,6 +1,7 @@
 # Climate Research
 
-Most papers in well-known journals have high-level descriptions of the various methodologies and terminologies used, which I find difficulties sourcing for other simpler forms of explanations and information. This page is therefore to document websites, articles, and videos that I found useful along the way.
+https://jackshiwl.github.io/jackswl/ <br />
+Most papers in well-known journals have high-level descriptions of the various methodologies and terminologies used, which I find difficulties sourcing for other simpler forms of explanations and information. This page is therefore to document websites, articles, and videos that I found useful along the way. 
 
 ## Introduction to Climate Models 
 These websites provide a detailed history and introduction to climate models. <br />
