@@ -42,7 +42,8 @@ In progress
 
 > A fundamental concept in parameterization is that it is possible to account for the important effects of unresolved processes in terms of those that can be resolved. This concept assumes the existence of robust relationships between processes that have different spatial and temporal scales such that the essential properties of the relevant unresolved processes are determined by the resolved scales to a sufficient degree to enable quantification of their effects in terms of the variables that are resolved and predicted. [Parameterizations: representing key processes in climate models without resolving them](https://onlinelibrary.wiley.com/doi/pdf/10.1002/wcc.122)
 
-## CNN
+## Deep Learning Models
+### CNN
 Here are some stackoverflow links explaining different dimensions of convolutions within CNN <br />
 [Intuitive understanding of 1D, 2D and 3D convolutions in CNN](https://stackoverflow.com/questions/42883547/intuitive-understanding-of-1d-2d-and-3d-convolutions-in-convolutional-neural-n/44628011#44628011) <br />
 [Difference between the input shape for a 1D CNN, 2D CNN and 3D CNN](https://stackoverflow.com/questions/66220774/difference-between-the-input-shape-for-a-1d-cnn-2d-cnn-and-3d-cnn)
