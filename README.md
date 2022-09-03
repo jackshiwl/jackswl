@@ -24,7 +24,7 @@ could use them for diagnosing model bias, thereby facilitating the development o
 
 ## Downscaling
 Downscaling of climate change models is the procedure of using large-scale climate models to make climate predictions at finer temporal and spatial scales to fit the purpose of local level analysis and planning. <br />
-[Climate Model Downscaling](https://www.gfdl.noaa.gov/climate-model-downscaling/)
+[Climate Model Downscaling](https://www.gfdl.noaa.gov/climate-model-downscaling/) <br />
 [A Review of Downscaling Methods for Climate Change Projections](http://www.ciesin.org/documents/Downscaling_CLEARED_000.pdf)
 
 ## Statistical Downscaling
