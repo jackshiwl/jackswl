@@ -6,10 +6,10 @@ Most papers in well-known journals have high-level descriptions of the various m
 [How do climate models work by Carbon Brief](https://www.carbonbrief.org/qa-how-do-climate-models-work/) <br />
 This website gives a detailed introduction to climate models. 
 
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+* Bullet list
+    * Nested bullet
+        * Sub-nested bullet etc
+* Bullet list item 2
 
 ## Reforecast and Reanalysis
 
