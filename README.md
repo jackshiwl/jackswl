@@ -29,7 +29,7 @@ could use them for diagnosing model bias, thereby facilitating the development o
 
 ## Dynamical Downscaling
 > Numerical models used for weather prediction and climate simulation must in principle account for such averaged effects of processes that cannot be resolved. The term ‘parameterization’ has come into general use in reference to representing the effects of such processes in terms of quantities that can be resolved in numerical models. These parameterized representations of unresolved processes invariably depend explicitly or implicitly on the spatial resolutions and other factors that are not necessarily directly related to the mathematical process that was used to derive the basic approximate set of algebraic equations. <br />
-<br />
+
 > A fundamental concept in parameterization is that it is possible to account for the important effects of unresolved processes in terms of those that can be resolved. This concept assumes the existence of robust relationships between processes that have different spatial and temporal scales such that the essential properties of the relevant unresolved processes are determined by the resolved scales to a sufficient degree to enable quantification of their effects in terms of the variables that are resolved and predicted. [Parameterizations: representing key processes in climate models without resolving them](https://onlinelibrary.wiley.com/doi/pdf/10.1002/wcc.122)
 
 ## CNN
