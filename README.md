@@ -12,6 +12,7 @@ These websites provide a detailed history and introduction to climate models. <b
 
 ## Reanalysis and Reforecast
 These websites provide explanations to what are reforecast and reanalysis data <br />
+
 [[ECMWF] Fact sheet: Reanalysis](https://www.ecmwf.int/en/about/media-centre/focus/2020/fact-sheet-reanalysis#:~:text=Reanalysis%20combines%20past%20short%2Drange,system%20as%20their%20starting%20point.) <br />
 
 I found these 2 videos to be much more intuitive in explaining reanalysis data. In the present day, we are continuously observing the weather all over the world, and this video compares that with the filming of a football kick. In the past, weather observations were rare, which the video compares that to having three different pictures of the football kick instead of a full film. Hence, reanalysis is a model based on physical equations in hope of reconstructing the full football trajectory using the three different pictures. <br />
@@ -51,6 +52,7 @@ In progress
 ## Deep Learning Models
 ### CNN
 Here are some stackoverflow links explaining different dimensions of convolutions within CNN <br />
+
 [Intuitive understanding of 1D, 2D and 3D convolutions in CNN](https://stackoverflow.com/questions/42883547/intuitive-understanding-of-1d-2d-and-3d-convolutions-in-convolutional-neural-n/44628011#44628011) <br />
 [Difference between the input shape for a 1D CNN, 2D CNN and 3D CNN](https://stackoverflow.com/questions/66220774/difference-between-the-input-shape-for-a-1d-cnn-2d-cnn-and-3d-cnn)
 
