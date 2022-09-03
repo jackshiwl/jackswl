@@ -7,19 +7,6 @@ Most papers in well-known journals have high-level descriptions of the various m
 [Carbon Brief: Timeline: The history of climate modelling](https://www.carbonbrief.org/timeline-history-climate-modelling/) <br />
 These websites provide a detailed introduction and history to climate models. 
 
-* What is a climate model? 
-* What are the different types of climate models?
-* What are the inputs and outputs for of a climate model?
-* What types of experiments do scientists run on climate models?
-* Who does climate modelling around the world?
-* What is CMIP?
-* How do scientists validate climate models? How do they check them?
-* How are climate models “parameterised” and tuned?
-* What is bias correction?
-* How accurate are climate model projections of temperature?
-* What are the main limitations in climate modelling at the moment?
-* What is the process for improving models?
-* How do scientists produce climate model information for specific regions?
 
 
 ## Reforecast and Reanalysis
