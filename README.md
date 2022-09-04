@@ -38,8 +38,9 @@ The following links are general websites on the concept of downscaling. <br />
 The following links are general videos on the concept of downscaling. <br />
 
 [NCAR Research Applications Laboratory: RAL/CGD JOINT SEMINAR | OCTOBER 2021- DYNAMICAL DOWNSCALING & CLIMATE CHANGE](https://youtu.be/mQEFB5NH0xE) <br />
-[Universität Bern: Downscaling - from global weather reconstructions to local weather reconstructions](https://www.youtube.com/watch?v=3_RkMLaiDVM) <br />
-[NCAR & UCAR Education and Outreach: Downscaling and Uncertainty](https://youtu.be/YvmtwUJHj2k)
+[NCAR & UCAR Education and Outreach: Downscaling and Uncertainty](https://youtu.be/YvmtwUJHj2k) <br />
+[Universität Bern: Downscaling - from global weather reconstructions to local weather reconstructions](https://www.youtube.com/watch?v=3_RkMLaiDVM)
+
 
 ## Statistical Downscaling
 In progress
