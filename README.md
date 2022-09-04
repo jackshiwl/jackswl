@@ -11,7 +11,7 @@ These websites provide a detailed history and introduction to climate models. <b
 
 
 ## Reanalysis and Reforecast
-These websites provide explanations to what are reforecast and reanalysis data <br />
+These websites provide explanations to what are reforecast and reanalysis data. <br />
 
 [[ECMWF] Fact sheet: Reanalysis](https://www.ecmwf.int/en/about/media-centre/focus/2020/fact-sheet-reanalysis#:~:text=Reanalysis%20combines%20past%20short%2Drange,system%20as%20their%20starting%20point.) <br />
 
