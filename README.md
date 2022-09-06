@@ -47,6 +47,9 @@ In progress
 
 ## Dynamical Downscaling
 ### Grid nesting
+Below are links for videos on grid nesting. <br />
+[NCAR: Nesting in WRF](https://www.youtube.com/watch?v=PIncq6mLh4k) <br />
+
 > Grid nesting is very common in mesoscale and limited-area modeling but is not often used in global modeling. A nested grid is a model grid which covers a smaller area than its ‘parent’ or coarse grid but has a smaller grid spacing, allowing for smaller scale features to be better resolved. The boundary conditions for the nested grid are then formed from coarse-grid data, a procedure for which few satisfactory methods are known to exist. The nested-grid data can then feed back onto the coarse grid through ‘two-way’ nesting, in which the coarse-grid solution is periodically replaced with that on the nested grid. This procedure allows for nested-grid disturbances to influence their large-scale environment, which is necessary for simulating hurricanes, and may also cause smaller reflections at the boundary of the nested grid than if there were no feedback. [Grid nesting and stretching in the GFDL atmosphere dynamical core](https://www.gfdl.noaa.gov/lucas-harris-nesting/)
 
 
