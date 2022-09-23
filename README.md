@@ -79,5 +79,5 @@ Here are some Stack Overflow links explaining different dimensions of convolutio
 In progress
 
 ## Tools
-[Regridding](https://earth-env-data-science.github.io/lectures/working_with_gcm_data.html)
+[Regridding](https://earth-env-data-science.github.io/lectures/working_with_gcm_data.html) <br />
 [Regridding CDO](https://stackoverflow.com/questions/61806343/regrid-netcdf-file-in-python)
