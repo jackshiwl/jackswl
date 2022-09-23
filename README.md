@@ -77,3 +77,6 @@ Here are some Stack Overflow links explaining different dimensions of convolutio
 
 ## Papers
 In progress
+
+## Tools
+[Regridding](https://earth-env-data-science.github.io/lectures/working_with_gcm_data.html)
