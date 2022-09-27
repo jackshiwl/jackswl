@@ -80,4 +80,5 @@ In progress
 
 ## Tools
 [Regridding](https://earth-env-data-science.github.io/lectures/working_with_gcm_data.html) <br />
-[Regridding CDO](https://stackoverflow.com/questions/61806343/regrid-netcdf-file-in-python)
+[Regridding CDO](https://stackoverflow.com/questions/61806343/regrid-netcdf-file-in-python) <br />
+[Combining time and step in Xarray](https://stackoverflow.com/questions/67342119/xarray-merge-separate-day-and-hour-dimensions-into-one-time-dimension-in-python)
